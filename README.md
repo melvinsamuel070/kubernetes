@@ -4,7 +4,7 @@ This setup deploys a **MongoDB** database using a StatefulSet and a **Mongo Expr
 
 ---
 
-## 📦 Components
+##  Components
 
 ### 1. MongoDB (StatefulSet)
 - Deploys MongoDB in a replicated (2 pods) stateful configuration.
@@ -27,7 +27,7 @@ This setup deploys a **MongoDB** database using a StatefulSet and a **Mongo Expr
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 ```text
 .
